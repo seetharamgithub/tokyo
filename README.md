@@ -1,1 +1,9 @@
-# tokyo
+<!---------- Meta HTML Starts --------->
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Home</title>
+      <link rel="stylesheet" href="css/style.css">
+   </head>
+   <body>
+<!---------- Meta HTML Ends --------->
